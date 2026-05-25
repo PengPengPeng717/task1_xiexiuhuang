@@ -1,0 +1,7 @@
+.env
+data/documents.jsonl
+data/chunks.jsonl
+data/manifest.json
+data/raw/
+eval/report.json
+*.exe

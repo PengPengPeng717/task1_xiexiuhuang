@@ -1,0 +1,142 @@
+[
+  {
+    "id": "gt-01",
+    "question": "近 7 天澳洲锂出口政策有何变化？",
+    "expected_document_ids": ["seed-policy-0", "policy-disr-strategy-2023-2030"],
+    "expected_points": ["锂", "澳洲", "政策"],
+    "category": ["policy", "time-7d"]
+  },
+  {
+    "id": "gt-02",
+    "question": "近7天锂价格走势",
+    "expected_document_ids": ["seed-price-3"],
+    "expected_points": ["锂", "SHFE"],
+    "category": ["price", "time-7d"]
+  },
+  {
+    "id": "gt-03",
+    "question": "铜 新闻 矿业",
+    "expected_document_ids": ["seed-news-0"],
+    "expected_points": ["copper", "Mining"],
+    "category": ["news"]
+  },
+  {
+    "id": "gt-04",
+    "question": "中国稀土政策",
+    "expected_document_ids": ["seed-policy-1"],
+    "expected_points": ["稀土", "政策"],
+    "category": ["policy"]
+  },
+  {
+    "id": "gt-05",
+    "question": "铁矿石行情",
+    "expected_document_ids": ["seed-price-4"],
+    "expected_points": ["铁矿石"],
+    "category": ["price"]
+  },
+  {
+    "id": "gt-06",
+    "question": "镍 LME 价格",
+    "expected_document_ids": ["seed-price-2"],
+    "expected_points": ["镍", "LME"],
+    "category": ["price"]
+  },
+  {
+    "id": "gt-07",
+    "question": "锌价",
+    "expected_document_ids": ["seed-price-1"],
+    "expected_points": ["锌"],
+    "category": ["price"]
+  },
+  {
+    "id": "gt-08",
+    "question": "Critical minerals strategy Australia",
+    "expected_document_ids": ["policy-disr-strategy-2023-2030"],
+    "expected_points": ["Critical", "minerals"],
+    "category": ["policy"]
+  },
+  {
+    "id": "gt-09",
+    "question": "近30天矿业新闻",
+    "expected_document_ids": ["seed-news-5"],
+    "expected_points": ["Mining"],
+    "category": ["news", "time-30d"]
+  },
+  {
+    "id": "gt-10",
+    "question": "锂 政策 出口",
+    "expected_document_ids": ["seed-policy-2"],
+    "expected_points": ["锂"],
+    "category": ["policy"]
+  },
+  {
+    "id": "gt-11",
+    "question": "铜价 LME",
+    "expected_document_ids": ["seed-price-0"],
+    "expected_points": ["铜", "LME"],
+    "category": ["price"]
+  },
+  {
+    "id": "gt-12",
+    "question": "mining lithium market",
+    "expected_document_ids": ["seed-news-1"],
+    "expected_points": ["lithium"],
+    "category": ["news"]
+  },
+  {
+    "id": "gt-13",
+    "question": "澳洲 锂",
+    "expected_document_ids": ["seed-policy-0"],
+    "expected_points": ["澳洲", "锂"],
+    "category": ["policy"]
+  },
+  {
+    "id": "gt-14",
+    "question": "近7天 政策",
+    "expected_document_ids": ["seed-policy-3"],
+    "expected_points": ["政策"],
+    "category": ["policy", "time-7d"]
+  },
+  {
+    "id": "gt-15",
+    "question": "SHFE 锂",
+    "expected_document_ids": ["seed-price-3"],
+    "expected_points": ["SHFE", "锂"],
+    "category": ["price"]
+  },
+  {
+    "id": "gt-16",
+    "question": "Mysteel 铁矿石",
+    "expected_document_ids": ["seed-price-4"],
+    "expected_points": ["Mysteel", "铁矿石"],
+    "category": ["price"]
+  },
+  {
+    "id": "gt-17",
+    "question": "稀土 中国",
+    "expected_document_ids": ["seed-policy-4"],
+    "expected_points": ["稀土"],
+    "category": ["policy"]
+  },
+  {
+    "id": "gt-18",
+    "question": "nickel price",
+    "expected_document_ids": ["seed-price-2"],
+    "expected_points": ["nickel"],
+    "category": ["price"]
+  },
+  {
+    "id": "gt-19",
+    "question": "zinc market news",
+    "expected_document_ids": ["seed-news-2"],
+    "expected_points": ["zinc"],
+    "category": ["news"]
+  },
+  {
+    "id": "gt-20",
+    "question": "近7天 铜 价格",
+    "expected_document_ids": ["seed-price-0"],
+    "expected_points": ["铜"],
+    "category": ["price", "time-7d"]
+  }
+]
